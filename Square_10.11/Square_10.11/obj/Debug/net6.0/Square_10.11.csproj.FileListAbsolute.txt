@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\bin\Debug\net6.0\Square_10.11.exe
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\bin\Debug\net6.0\Square_10.11.deps.json
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\bin\Debug\net6.0\Square_10.11.runtimeconfig.json
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\bin\Debug\net6.0\Square_10.11.dll
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\bin\Debug\net6.0\Square_10.11.pdb
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.AssemblyInfo.cs
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.dll
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\refint\Square_10.11.dll
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.pdb
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\Square_10.11.genruntimeconfig.cache
+C:\Users\artem\source\repos\Square_10.11\Square_10.11\obj\Debug\net6.0\ref\Square_10.11.dll
